@@ -1,23 +1,23 @@
-# 🌾 AgriLeaf Vision – Rice Leaf Disease Detection using Machine Learning
+#  AgriLeaf Vision – Rice Leaf Disease Detection using Machine Learning
 
 AgriLeaf Vision leverages **cutting-edge machine learning** to revolutionize agricultural diagnostics.  
 Our project focuses on **precise and early detection of rice leaf diseases** to help farmers safeguard crop yield, reduce losses, and promote sustainable farming practices.
 
 ---
 
-## 🚀 Overview
+## Overview
 
 Rice is one of the world’s most important staple crops — yet it’s vulnerable to multiple diseases that can devastate production.  
 **AgriLeaf Vision** provides an **AI-driven solution** that can automatically detect and classify rice leaf diseases from images using advanced **deep learning models**.
 
-### 🎯 Key Objectives
+### Key Objectives
 - Automate rice leaf disease detection with high accuracy.  
 - Assist farmers and agronomists with fast, accessible crop health diagnostics.  
 - Contribute to the development of **AI-powered smart agriculture** systems.
 
 ---
 
-## 🧠 Tech Stack
+## Tech Stack
 
 | Category | Tools & Technologies |
 |-----------|----------------------|
@@ -30,7 +30,7 @@ Rice is one of the world’s most important staple crops — yet it’s vulnerab
 
 ---
 
-## 🔍 Workflow
+## Workflow
 
 1. **Data Collection & Preprocessing**  
    - Image resizing, normalization, and augmentation.  
@@ -43,71 +43,6 @@ Rice is one of the world’s most important staple crops — yet it’s vulnerab
 
 ---
 
-## 📊 Results
-
-- Achieved **high model accuracy** in detecting major rice leaf diseases such as:
-  - **Bacterial Leaf Blight**
-  - **Brown Spot**
-  - **Leaf Smut**
-
-> 📈 Model demonstrated excellent generalization and robustness across test samples.
-
----
-
-## 🖼️ Sample Output
-
-| Input Image | Predicted Disease |
-|--------------|------------------|
-| 🌿 Rice Leaf 1 | Bacterial Leaf Blight |
-| 🌿 Rice Leaf 2 | Brown Spot |
-| 🌿 Rice Leaf 3 | Healthy |
-
-*(Include sample images or prediction visualizations here)*
-
----
-
-## 🌱 Future Enhancements
-
-- Real-time detection using a **mobile app or camera feed**  
-- Integration with **IoT-based crop monitoring systems**  
-- Expand model for **multi-crop disease detection**
-
----
-
-## 🤝 Contributing
-
-Contributions are welcome!  
-If you’d like to improve this project or add new features, feel free to fork the repository and submit a pull request.
-
----
-
-## 📬 Contact
-
-👩‍💻 **Sai Aishwarya**  
-📧 [saiaishwaryagithub@gmail.com](mailto:saiaishwaryagithub@gmail.com)  
-🔗 [GitHub Profile](https://github.com/sai-aishwarya-codes)  
-💼 [LinkedIn](https://www.linkedin.com/in/sai-aishwarya/)  
-
----
-
-## ⭐ Acknowledgements
-
-- Kaggle for dataset resources  
-- TensorFlow & Keras for deep learning frameworks  
-- Open-source community for inspiration and support  
-
----
-
-### 🌾 “Empowering Farmers with AI — For a Greener Tomorrow.”
-
----
-
-
-# Rice-Leaf-Disease-Detection
-
-## INTRODUCTION
-The rice leaf suffers from several bacterial, viral, or fungal diseases and these diseases reduce rice production significantly. To sustain rice demand for a vast population globally.The rice leaves related diseases often pose threats to the sustainable production of rice affecting many farmers around the world. Early diagnosis and appropriate remedy of the rice leaf infection is crucial in facilitating healthy growth of the rice plants to ensure adequate supply and food security to the rapidly increasing population.
-
 ### Rice Leaf Disease:
 ![image](https://user-images.githubusercontent.com/101791322/177773023-a8114cb6-c1c4-497b-b51f-de9baef4e8d5.png)
 
@@ -119,18 +54,6 @@ This dataset contains 120 jpg images of disease infected rice leaves. The images
 * Leaf smut
 * Brown spot
 * Bacterial leaf blight
-
-### WE HAVE DEVICE THE PROJECT INTO MULTIPLE STEPS:
-* Importing library
-* Loading data
-* Preparing data
-* Data Processing 
-* Model building
-* Training
-* Evaluation
-* Testing
-
-
 
 ### LODING DATA / PREPARING DATA
 •	Make a subset of data into three parts train, test, and validation with the help of split folder library.
@@ -163,5 +86,40 @@ In this step we are create a function to test multiple images from test data.
 
  
 
+## Future Enhancements
+
+- Real-time detection using a **mobile app or camera feed**  
+- Integration with **IoT-based crop monitoring systems**  
+- Expand model for **multi-crop disease detection**
+
+---
+
+## Contributing
+
+Contributions are welcome!  
+If you’d like to improve this project or add new features, feel free to fork the repository and submit a pull request.
+
+---
+
+## Contact
+
+👩‍💻 **Sai Aishwarya**  
+📧 [saiaishwaryagithub@gmail.com](mailto:saiaishwaryagithub@gmail.com)  
+🔗 [GitHub Profile](https://github.com/sai-aishwarya-codes)  
+💼 [LinkedIn](https://www.linkedin.com/in/sai-aishwarya/)  
+
+---
+
+## Acknowledgements
+
+- Kaggle for dataset resources  
+- TensorFlow & Keras for deep learning frameworks  
+- Open-source community for inspiration and support  
+
+---
+
+###“Empowering Farmers with AI — For a Greener Tomorrow.”
+
+---
 
 
