@@ -1,3 +1,108 @@
+# 🌾 AgriLeaf Vision – Rice Leaf Disease Detection using Machine Learning
+
+AgriLeaf Vision leverages **cutting-edge machine learning** to revolutionize agricultural diagnostics.  
+Our project focuses on **precise and early detection of rice leaf diseases** to help farmers safeguard crop yield, reduce losses, and promote sustainable farming practices.
+
+---
+
+## 🚀 Overview
+
+Rice is one of the world’s most important staple crops — yet it’s vulnerable to multiple diseases that can devastate production.  
+**AgriLeaf Vision** provides an **AI-driven solution** that can automatically detect and classify rice leaf diseases from images using advanced **deep learning models**.
+
+### 🎯 Key Objectives
+- Automate rice leaf disease detection with high accuracy.  
+- Assist farmers and agronomists with fast, accessible crop health diagnostics.  
+- Contribute to the development of **AI-powered smart agriculture** systems.
+
+---
+
+## 🧠 Tech Stack
+
+| Category | Tools & Technologies |
+|-----------|----------------------|
+| **Languages** | Python |
+| **Libraries / Frameworks** | TensorFlow / Keras, OpenCV, NumPy, Pandas, Matplotlib |
+| **Model Architecture** | CNN (Convolutional Neural Network) |
+| **Dataset** | Rice Leaf Disease Dataset (custom or from Kaggle) |
+| **Environment** | Jupyter Notebook / Google Colab |
+| **Visualization** | Matplotlib, Seaborn |
+
+---
+
+## 🔍 Workflow
+
+1. **Data Collection & Preprocessing**  
+   - Image resizing, normalization, and augmentation.  
+2. **Model Development**  
+   - Trained a **CNN-based model** to classify rice leaf diseases.  
+3. **Model Evaluation**  
+   - Accuracy, precision, recall, and F1-score metrics used.  
+4. **Deployment (Future Scope)**  
+   - Plan to deploy as a web or mobile app for farmer-friendly usage.  
+
+---
+
+## 📊 Results
+
+- Achieved **high model accuracy** in detecting major rice leaf diseases such as:
+  - **Bacterial Leaf Blight**
+  - **Brown Spot**
+  - **Leaf Smut**
+
+> 📈 Model demonstrated excellent generalization and robustness across test samples.
+
+---
+
+## 🖼️ Sample Output
+
+| Input Image | Predicted Disease |
+|--------------|------------------|
+| 🌿 Rice Leaf 1 | Bacterial Leaf Blight |
+| 🌿 Rice Leaf 2 | Brown Spot |
+| 🌿 Rice Leaf 3 | Healthy |
+
+*(Include sample images or prediction visualizations here)*
+
+---
+
+## 🌱 Future Enhancements
+
+- Real-time detection using a **mobile app or camera feed**  
+- Integration with **IoT-based crop monitoring systems**  
+- Expand model for **multi-crop disease detection**
+
+---
+
+## 🤝 Contributing
+
+Contributions are welcome!  
+If you’d like to improve this project or add new features, feel free to fork the repository and submit a pull request.
+
+---
+
+## 📬 Contact
+
+👩‍💻 **Sai Aishwarya**  
+📧 [saiaishwaryagithub@gmail.com](mailto:saiaishwaryagithub@gmail.com)  
+🔗 [GitHub Profile](https://github.com/sai-aishwarya-codes)  
+💼 [LinkedIn](https://www.linkedin.com/in/sai-aishwarya/)  
+
+---
+
+## ⭐ Acknowledgements
+
+- Kaggle for dataset resources  
+- TensorFlow & Keras for deep learning frameworks  
+- Open-source community for inspiration and support  
+
+---
+
+### 🌾 “Empowering Farmers with AI — For a Greener Tomorrow.”
+
+---
+
+
 # Rice-Leaf-Disease-Detection
 
 ## INTRODUCTION
