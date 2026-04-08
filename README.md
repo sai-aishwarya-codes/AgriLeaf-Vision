@@ -55,7 +55,7 @@ This dataset contains 120 jpg images of disease infected rice leaves. The images
 * Brown spot
 * Bacterial leaf blight
 
-### LODING DATA / PREPARING DATA
+### LOADING DATA / PREPARING DATA
 •	Make a subset of data into three parts train, test, and validation with the help of split folder library.
 
 ### DATA PROCESSING
